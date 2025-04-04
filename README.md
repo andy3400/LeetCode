@@ -37,4 +37,8 @@ Repository for recording LeetCode Algorithm problem solving
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/andy3400/LeetCode/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/andy3400/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
