@@ -24,6 +24,7 @@ Repository for recording LeetCode Algorithm problem solving
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/andy3400/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/andy3400/LeetCode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/andy3400/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/andy3400/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/andy3400/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
@@ -41,4 +42,5 @@ Repository for recording LeetCode Algorithm problem solving
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/andy3400/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/andy3400/LeetCode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
