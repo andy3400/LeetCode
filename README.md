@@ -27,6 +27,7 @@ Repository for recording LeetCode Algorithm problem solving
 | [0066-plus-one](https://github.com/andy3400/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/andy3400/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/andy3400/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/andy3400/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/andy3400/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/andy3400/LeetCode/tree/master/0189-rotate-array) |
 ## Two Pointers
@@ -60,4 +61,8 @@ Repository for recording LeetCode Algorithm problem solving
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/andy3400/LeetCode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/andy3400/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
